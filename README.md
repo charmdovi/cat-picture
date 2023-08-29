@@ -4,9 +4,13 @@ I will show you a picture of a cat.
 
 ![image](https://github.com/charmdovi/cat-picture/assets/129126687/566ad768-f308-4253-bdb5-2b8e3597c45e)
 
-1. pip install .
+# Use
 
-2. (cat-picture-3.7)  dokyung@DESKTOP-1HKCSVM  ~/code/cat-picture   0.2.0/test  python
+1. pip install cat-picture
+
+2. import & call
+```python
+(cat-picture-3.7)  dokyung@DESKTOP-1HKCSVM  ~/code/cat-picture   0.2.0/test  python
 Python 3.7.16 (default, May 24 2023, 10:34:09)
 [GCC 11.3.0] on linux
 Type "help", "copyright", "credits" or "license" for more information.
@@ -52,3 +56,5 @@ Type "help", "copyright", "credits" or "license" for more information.
 ...............::::^^^:^^::::::::^^^^::::^^~!!7!!~~~~~~~~~~~!!!7!77?JJYJYJJJYJ??JYY555555?^.........
 ..............::^^^^^^^^^^^^^^^::::^^^^^^~~~~~!7!~!!!~~~~!!!!!!7???????JYYY5YJ?YYYY5555555J^........
 ..............::^^^^^^^^^~^^^^^^^^::^^^^^^^~!~~!!~~~!!~~!!!77777?77???JYY5P5JJY55555P55555Y?^::.....
+>>>
+```
